@@ -10,8 +10,7 @@
         "require": true,
         "rejectUnauthorized": false
       }
-    },
-    "port": 3006
+    }
   },
   "test": {
     "username": "root",
